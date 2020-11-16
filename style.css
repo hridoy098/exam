@@ -1,0 +1,110 @@
+body{
+    margin: 0%;
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    height: 400px;
+    padding-bottom:300px;
+}
+.hero-section{
+    background-image:url("image/header-bg.png"); 
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.half-width{
+    float: left;
+    margin-left:5%;
+    padding-left: 3%;
+    width: 40%;
+}
+.position{
+    padding-top: 15%;
+}
+.half-width img{
+    width: 100%;
+}
+h1{
+    font-size: 40px;
+}
+.name-highlite{
+    color: crimson;
+    font-size: 60px;
+}
+p{
+    font-size: 16px;
+    text-align: justify;
+    padding-bottom: 3%;
+}
+.anchor-button{
+   text-decoration: none;
+   background:linear-gradient(60deg,tomato,salmon);
+   color:#fff ;
+   padding: 10px;
+   font-size: 20px;
+   border-radius: 5px;
+}
+.biography{
+    background-image: url("image/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.highlite p{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold; 
+}
+.latest-work{
+    background-image: url("image/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.work-image img{
+    width: 20%;
+    margin: 5%;
+    padding-left:3%;
+     float: left;
+}
+.client-work{
+    background-image: url("image/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+   
+}
+.bruce{
+    text-align: center;
+}
+.founder{
+    font-size: 16px;
+    font-weight: normal;
+    color: gray;
+}
+.font p{
+    text-align: center;
+    padding: 7%;
+}
+.message{
+    background:linear-gradient(90deg,tomato,salmon);
+    position: absolute;
+    width: 50%;
+    left: 25%;
+    right: 40%;
+    border-radius: 30px; 
+}
+
+.message h2{
+    padding-top: 2%;
+    text-align: center;
+    font-weight: normal;
+    font-size: 16px;
+}
+.email{
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+}
+footer p{
+    text-align: center;
+    color: gray;
+    padding: 5%;
+}
+
